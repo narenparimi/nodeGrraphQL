@@ -1,8 +1,6 @@
-# express-graphl-postgres
-Demo code for a Express GraphQL Node.js and Postgres
-
-## Install dependencies
+This is a sample project to develop a GraphQL API with Express + Node JS and setup connection between a PostgreSQL database and a GraphQL server. 
+# Install dependencies
 `npm install`
 
-## Start the server
+#Start the server
 `node server.js`
